@@ -70,7 +70,7 @@ b.      Click Yes to confirm.
 
 7.       Your registered app is now  created, has a client secret, and has API permissions assigned, select Overview from the left menu and copy the Application (client) ID and the Directory (tenant) ID. Store these in a safe place as these are required to populate the power automate variables
 
-8.      Import the power automate
+8.      Import the power automate [Link to File](https://github.com/MSPFE2019/MessageCenter-to-Teams/blob/ee8b4067cd73f31218957e86da2b4d57e4da3200/GetM365ServiceMessages_20220929213956.zip)
 
 9.      Update the Variable with your save values
 
