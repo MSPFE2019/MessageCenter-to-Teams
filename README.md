@@ -16,7 +16,7 @@ o   Graph API
 
 ## Steps
 
-  
+  [Download Link](https://github.com/MSPFE2019/MessageCenter-to-Teams/blob/ee8b4067cd73f31218957e86da2b4d57e4da3200/GetM365ServiceMessages_20220929213956.zip)
 
 1.      Create a Registered Application in Azure AD
 
