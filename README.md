@@ -1,6 +1,6 @@
 # **Message Center to Teams**
 
- <img src="https://github.com/MSPFE2019/MessageCenter-to-Teams/blob/905b578559f3a1191afe8df92feb12f4ec4b443f/Screenshot%202022-09-29%20225107.png"style="height: 100px; width:100px;"/>
+![](https://github.com/MSPFE2019/MessageCenter-to-Teams/blob/905b578559f3a1191afe8df92feb12f4ec4b443f/Screenshot%202022-09-29%20225107.png) {align=center}
 
 ## Prerequisites
 
